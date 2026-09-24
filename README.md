@@ -6,15 +6,15 @@ A Digital marketplace for direct farmer-buyer linkage
 * **Problem Statement ID:** SIH26132
 * **Category:** Software / Hardware
 * **Theme:** [Insert Theme, e.g., Smart Automation, Healthcare, Agriculture]
-* **Team Name:** [Insert Your Team Name]
-* **Institution:** [Insert Your College Name]
-
+* **Team Name:** [The Blazing hawks]
+  
 ## 💡 The Problem & The Solution
 ### Problem Statement
-[Provide a brief 2-3 sentence description of the core issue mentioned in SIH26132. Highlight the pain points and current limitations.]
+Strengthening market linkages and price discovery for farmers
+
 
 ### Our Solution
-[Describe how your application or prototype fixes the problem. Mention the unique value proposition (UVP) of your build.]
+A DIGITAL MARKETPLACE FOR DIRECT FARMER-BUYER LINKAGE
 
 ---
 
